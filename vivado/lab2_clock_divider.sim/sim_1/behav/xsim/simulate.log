@@ -1,3 +1,0 @@
-Time resolution is 1 ps
-LAB2_PASS clock_divider checks=129
-$finish called at time : 436 ns : File "C:/Users/gaeun/Desktop/lab2_02_clock_divider/sim/tb_clock_divider.sv" Line 19
